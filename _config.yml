@@ -16,9 +16,9 @@ author: John Lopez
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's Home: "https://deanattali.com"
+    - Github: "https://github.com/Lopez-John?tab=repositories"
+    - LinkedIn: "https://www.linkedin.com/in/john-lopez25/"
+  Author's Home: "https://lopez-john.github.io/"
 
 # --- Logo --- #
 
