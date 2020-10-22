@@ -4,7 +4,7 @@ title: About me
 subtitle: Rocking out on guitar isn't my only good quality
 ---
 
-Hi my name is John Lopez, and I am currently a student at Lambda School, currently learning to meet you Data science and Engineering needs:
+Hi my name is John Lopez, and I am currently a student at Lambda School, currently learning to meet your Data science and Engineering needs:
 
 - works great with Pandas and NumPy
 - can create fascinating visualizations for clients and shareholders
